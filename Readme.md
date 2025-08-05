@@ -5,4 +5,4 @@ Roleta em HTML/CSS/JS projeto criado para utilização em um bingo beneficiente 
 https://roleta-4lin2zzhr-everton-rochas-projects.vercel.app/
 
 ## Screenshot:
-![Roleta](../Roleta/Assets/Screenshot.png)
+![Roleta](Assets/Screenshot.png)
